@@ -51,7 +51,7 @@ npm install
 npm run dev
 ```
 
-Depois disso, acesse `http://localhost:5173` no seu navegador.
+Depois disso, acesse `http://localhost:3000` no seu navegador.
 
 ## 📝 Licença
 
