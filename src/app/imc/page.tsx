@@ -38,11 +38,9 @@ export default function Imc() {
     const imcCalculado = parseFloat(resultado.toFixed(2));
     setImc(imcCalculado);
 
-    if (imc !== null) {
+    if (imcCalculado !== null) {
       setClassificacao(classificacaoIMC(imcCalculado));
     }
-
-    // console.log(peso + '--' + altura + '--' + imc + '--' + classificacao);
   }
 
   return (
