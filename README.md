@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto **Calculadora de IMC** permite que o usuário insira seu peso e altura para obter o valor do IMC (Índice de Massa Corporal) e sua respectiva classificação conforme os parâmetros da Organização Mundial da Saúde.
 
+Acesse o projeto pelo [link](https://lucasbars.github.io/imc/) 💜
+
 ## 🛰️ Funcionalidades
 
 - Cálculo automático do IMC com duas casas decimais
